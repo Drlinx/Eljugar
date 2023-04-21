@@ -1,0 +1,10 @@
+80
+40
+5
+50
+0
+0
+tackle
+fire blast
+bite
+lava plume

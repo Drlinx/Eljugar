@@ -1,0 +1,7 @@
+GENERIC PLAYER TEAM
+0
+grass_golem
+fire_golem
+water_golem
+salamander
+shark

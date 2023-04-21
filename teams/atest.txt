@@ -1,0 +1,7 @@
+GENERIC AI TEAM
+1
+grass_golem
+fire_golem
+water_golem
+salamander
+shark

@@ -1,0 +1,10 @@
+100
+25
+10
+10
+0
+0
+tackle
+fire blast
+bite
+dev special
