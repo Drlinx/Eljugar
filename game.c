@@ -1,9 +1,15 @@
+/**
+ * @file game.c
+ * @author Dr Linx
+ * @brief Main file for the project.
+ * @version 0.1
+ * @date 2023-04-27
+ * 
+ */
 #include "game.h"
 
 
 int main(){
-    int x = WATER;
-    printf("%d", x);
     int lead;
     int end = GO;
     

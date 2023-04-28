@@ -1,2 +1,2 @@
-# Eljugar
-How bad could it be making a game in C?
+Note: This is an archieve of a previous project I was writing over a winter break that never
+got into a pahse I started to debug in.
