@@ -1,0 +1,7 @@
+THIS IS A TEMPLATE FILE
+Player #
+Mon 1
+Mon 2
+Mon 3
+Mon 4
+Mon 5
